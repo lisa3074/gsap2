@@ -1,0 +1,23 @@
+{
+  "name": "gsap2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "beachball.js",
+  "scripts": {
+    "start": "parcel *.html --open",
+    "build": "parcel build *.html --public-url ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisa3074/gsap2.git"
+  },
+  "author": "Lisa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisa3074/gsap2/issues"
+  },
+  "homepage": "https://github.com/lisa3074/gsap2#readme",
+  "dependencies": {
+    "gsap": "^3.2.4"
+  }
+}
