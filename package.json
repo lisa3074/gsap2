@@ -1,8 +1,7 @@
 {
-  "name": "gsap2",
+  "name": "gsap2multi",
   "version": "1.0.0",
-  "description": "",
-  "main": "beachball.js",
+  "main": "multiballs.js",
   "scripts": {
     "start": "parcel *.html --open",
     "build": "parcel build *.html --public-url ./"
@@ -19,5 +18,7 @@
   "homepage": "https://github.com/lisa3074/gsap2#readme",
   "dependencies": {
     "gsap": "^3.2.4"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
